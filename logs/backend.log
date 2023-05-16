@@ -4637,3 +4637,179 @@
 06/06/2022, 23:57:51 - DEBUG - Getting Boards
 06/06/2022, 23:57:52 - INFO - Req was made
 06/06/2022, 23:57:52 - DEBUG - Getting Boards
+5/16/2023, 1:38:24 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:38:26 PM - INFO - New connected socket [id: 9pp8b6RNMymI-DX0AAAB]
+5/16/2023, 1:38:26 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: 9pp8b6RNMymI-DX0AAAB]
+5/16/2023, 1:38:27 PM - INFO - New connected socket [id: r8fquk0yDZax6iiuAAAD]
+5/16/2023, 1:38:27 PM - INFO - Setting socket.userId = gAPSZR0FAOHBMMz4x6ksT for socket [id: r8fquk0yDZax6iiuAAAD]
+5/16/2023, 1:38:48 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:38:59 PM - INFO - New connected socket [id: fYUVIbDw2LGuLx9EAAAF]
+5/16/2023, 1:38:59 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: fYUVIbDw2LGuLx9EAAAF]
+5/16/2023, 1:38:59 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: fYUVIbDw2LGuLx9EAAAF]
+5/16/2023, 1:39:02 PM - INFO - Req was made
+5/16/2023, 1:39:02 PM - DEBUG - Getting Boards
+5/16/2023, 1:39:02 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:39:02 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:39:37 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:39:37 PM - INFO - New connected socket [id: GS9AZogSPBld7k-HAAAH]
+5/16/2023, 1:39:37 PM - INFO - Req was made
+5/16/2023, 1:39:37 PM - DEBUG - Getting Boards
+5/16/2023, 1:39:37 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: GS9AZogSPBld7k-HAAAH]
+5/16/2023, 1:39:37 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:39:37 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:39:38 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: GS9AZogSPBld7k-HAAAH]
+5/16/2023, 1:39:38 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:39:38 PM - INFO - New connected socket [id: qy-bRXF2M66zXfd9AAAJ]
+5/16/2023, 1:39:38 PM - INFO - Req was made
+5/16/2023, 1:39:38 PM - DEBUG - Getting Boards
+5/16/2023, 1:39:38 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: qy-bRXF2M66zXfd9AAAJ]
+5/16/2023, 1:39:38 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:39:38 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:39:38 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: qy-bRXF2M66zXfd9AAAJ]
+5/16/2023, 1:41:42 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:41:43 PM - INFO - New connected socket [id: GK1m9yg98c8ZMyENAAAB]
+5/16/2023, 1:41:46 PM - INFO - New connected socket [id: _iqeVcVA-V1KNePHAAAD]
+5/16/2023, 1:41:46 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: _iqeVcVA-V1KNePHAAAD]
+5/16/2023, 1:41:46 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: _iqeVcVA-V1KNePHAAAD]
+5/16/2023, 1:41:50 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:41:51 PM - INFO - New connected socket [id: qp6UtN09tuw8W0bIAAAB]
+5/16/2023, 1:41:54 PM - INFO - New connected socket [id: ia400CTHazWrKK9tAAAD]
+5/16/2023, 1:42:27 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:42:28 PM - INFO - New connected socket [id: bPZCyQJKGwOg0ugCAAAF]
+5/16/2023, 1:42:28 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: bPZCyQJKGwOg0ugCAAAF]
+5/16/2023, 1:42:28 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: bPZCyQJKGwOg0ugCAAAF]
+5/16/2023, 1:42:30 PM - INFO - Req was made
+5/16/2023, 1:42:30 PM - DEBUG - Getting Boards
+5/16/2023, 1:42:30 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:42:30 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:43:50 PM - INFO - Req was made
+5/16/2023, 1:43:50 PM - DEBUG - Getting Boards
+5/16/2023, 1:43:50 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:43:50 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:43:53 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:43:54 PM - INFO - New connected socket [id: avKWQtqei41ylfD9AAAH]
+5/16/2023, 1:43:54 PM - INFO - Req was made
+5/16/2023, 1:43:54 PM - DEBUG - Getting Boards
+5/16/2023, 1:43:54 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:43:54 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:43:54 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: avKWQtqei41ylfD9AAAH]
+5/16/2023, 1:43:54 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: avKWQtqei41ylfD9AAAH]
+5/16/2023, 1:43:58 PM - INFO - Req was made
+5/16/2023, 1:43:58 PM - DEBUG - Getting Boards
+5/16/2023, 1:43:58 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:43:58 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:44:33 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:44:33 PM - INFO - New connected socket [id: aEhkkihZodD3nD1-AAAJ]
+5/16/2023, 1:44:33 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: aEhkkihZodD3nD1-AAAJ]
+5/16/2023, 1:44:33 PM - INFO - Req was made
+5/16/2023, 1:44:33 PM - DEBUG - Getting Boards
+5/16/2023, 1:44:33 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:44:33 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:44:34 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: aEhkkihZodD3nD1-AAAJ]
+5/16/2023, 1:44:43 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:44:44 PM - INFO - New connected socket [id: MgGvuYlgqVD21d3TAAAL]
+5/16/2023, 1:44:44 PM - INFO - Req was made
+5/16/2023, 1:44:44 PM - DEBUG - Getting Boards
+5/16/2023, 1:44:44 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: MgGvuYlgqVD21d3TAAAL]
+5/16/2023, 1:44:44 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:44:44 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:44:44 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: MgGvuYlgqVD21d3TAAAL]
+5/16/2023, 1:45:04 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:45:04 PM - INFO - New connected socket [id: R5y7KdZZe76q-b1NAAAB]
+5/16/2023, 1:45:05 PM - INFO - New connected socket [id: VXGnRwrelLZpH1EqAAAD]
+5/16/2023, 1:45:07 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:45:08 PM - INFO - New connected socket [id: 5TTX8_5Vax3_1oTBAAAF]
+5/16/2023, 1:45:08 PM - INFO - Req was made
+5/16/2023, 1:45:08 PM - DEBUG - Getting Boards
+5/16/2023, 1:45:08 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: 5TTX8_5Vax3_1oTBAAAF]
+5/16/2023, 1:45:08 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:45:08 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:45:08 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: 5TTX8_5Vax3_1oTBAAAF]
+5/16/2023, 1:45:48 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:45:49 PM - INFO - New connected socket [id: FtH-GumUVlU_dKhYAAAB]
+5/16/2023, 1:45:49 PM - INFO - New connected socket [id: lUPxNCVQ5s-mmAhKAAAD]
+5/16/2023, 1:45:59 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:45:59 PM - INFO - New connected socket [id: w2q-FBos1wv20SgPAAAB]
+5/16/2023, 1:45:59 PM - INFO - New connected socket [id: 5ymKy4llZ1x01whRAAAD]
+5/16/2023, 1:46:02 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:46:02 PM - INFO - New connected socket [id: mjTwm7j4t3lq9D3kAAAF]
+5/16/2023, 1:46:02 PM - INFO - Req was made
+5/16/2023, 1:46:02 PM - DEBUG - Getting Boards
+5/16/2023, 1:46:02 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: mjTwm7j4t3lq9D3kAAAF]
+5/16/2023, 1:46:02 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:46:02 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:46:03 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: mjTwm7j4t3lq9D3kAAAF]
+5/16/2023, 1:46:18 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:46:18 PM - INFO - New connected socket [id: BmzZOCIo52I_TV64AAAH]
+5/16/2023, 1:46:18 PM - INFO - Req was made
+5/16/2023, 1:46:18 PM - DEBUG - Getting Boards
+5/16/2023, 1:46:18 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: BmzZOCIo52I_TV64AAAH]
+5/16/2023, 1:46:18 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:46:18 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:46:19 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: BmzZOCIo52I_TV64AAAH]
+5/16/2023, 1:46:53 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:46:53 PM - INFO - New connected socket [id: hbDzVl90YAfVTA5_AAAB]
+5/16/2023, 1:46:54 PM - INFO - New connected socket [id: nYDOTx_SvGx7r1nLAAAD]
+5/16/2023, 1:46:56 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:46:57 PM - INFO - New connected socket [id: dbWG4Gu0QYydm9w3AAAF]
+5/16/2023, 1:46:57 PM - INFO - Req was made
+5/16/2023, 1:46:57 PM - DEBUG - Getting Boards
+5/16/2023, 1:46:57 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: dbWG4Gu0QYydm9w3AAAF]
+5/16/2023, 1:46:57 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:46:57 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:46:57 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: dbWG4Gu0QYydm9w3AAAF]
+5/16/2023, 1:47:11 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:47:12 PM - INFO - New connected socket [id: g_nhNYwq2TU5QrA5AAAB]
+5/16/2023, 1:47:12 PM - INFO - New connected socket [id: VcB9VUJgi0ALf5mbAAAD]
+5/16/2023, 1:47:14 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:47:14 PM - INFO - New connected socket [id: Vq3tcROZwu3ZnU2kAAAF]
+5/16/2023, 1:47:14 PM - INFO - Req was made
+5/16/2023, 1:47:14 PM - DEBUG - Getting Boards
+5/16/2023, 1:47:14 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: Vq3tcROZwu3ZnU2kAAAF]
+5/16/2023, 1:47:14 PM - ERROR - cannot find boards | {}
+5/16/2023, 1:47:14 PM - ERROR - Failed to get boards | {}
+5/16/2023, 1:47:14 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: Vq3tcROZwu3ZnU2kAAAF]
+5/16/2023, 1:52:32 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:52:32 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:52:32 PM - INFO - New connected socket [id: 62ttyhq30rbGZ7XNAAAI]
+5/16/2023, 1:52:33 PM - INFO - Req was made
+5/16/2023, 1:52:33 PM - DEBUG - Getting Boards
+5/16/2023, 1:52:33 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: 62ttyhq30rbGZ7XNAAAI]
+5/16/2023, 1:52:33 PM - INFO - New connected socket [id: bpApfvk1jT_yLjmnAAAJ]
+5/16/2023, 1:52:33 PM - INFO - Setting socket.userId = gAPSZR0FAOHBMMz4x6ksT for socket [id: bpApfvk1jT_yLjmnAAAJ]
+5/16/2023, 1:52:33 PM - INFO - Setting socket.userId = gAPSZR0FAOHBMMz4x6ksT for socket [id: bpApfvk1jT_yLjmnAAAJ]
+5/16/2023, 1:52:33 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: 62ttyhq30rbGZ7XNAAAI]
+5/16/2023, 1:52:35 PM - INFO - Req was made
+5/16/2023, 1:52:35 PM - DEBUG - Getting Boards
+5/16/2023, 1:53:21 PM - INFO - Socket disconnected [id: undefined]
+5/16/2023, 1:53:21 PM - INFO - New connected socket [id: TDFRUBfhTxOHqHZWAAAL]
+5/16/2023, 1:53:21 PM - INFO - Req was made
+5/16/2023, 1:53:21 PM - DEBUG - Getting Boards
+5/16/2023, 1:53:21 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: TDFRUBfhTxOHqHZWAAAL]
+5/16/2023, 1:53:22 PM - INFO - Setting socket.userId = gHGE7oiUViLte8MLRxdbB for socket [id: TDFRUBfhTxOHqHZWAAAL]
+5/16/2023, 1:53:22 PM - INFO - Req was made
+5/16/2023, 1:53:22 PM - DEBUG - Getting Boards
+5/16/2023, 1:54:48 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:54:48 PM - INFO - New connected socket [id: Pe12JpJRqCLm22JVAAAB]
+5/16/2023, 1:54:50 PM - INFO - New connected socket [id: ewtdslugiAZeEjQCAAAD]
+5/16/2023, 1:55:11 PM - INFO - Req was made
+5/16/2023, 1:55:11 PM - DEBUG - Getting Boards
+5/16/2023, 1:55:11 PM - INFO - Socket is joining topic 629b11e4dbd97c0cf1344428 [id: ewtdslugiAZeEjQCAAAD]
+5/16/2023, 1:55:14 PM - INFO - Req was made
+5/16/2023, 1:55:14 PM - DEBUG - Getting Boards
+5/16/2023, 1:55:15 PM - INFO - Req was made
+5/16/2023, 1:55:15 PM - DEBUG - Getting Boards
+5/16/2023, 1:55:17 PM - INFO - Req was made
+5/16/2023, 1:55:17 PM - DEBUG - Getting Boards
+5/16/2023, 1:55:18 PM - INFO - Socket is leaving topic 629b11e4dbd97c0cf1344428 [id: ewtdslugiAZeEjQCAAAD]
+5/16/2023, 1:55:18 PM - INFO - Socket is joining topic 629a049a6aa9e44f18fbc43f [id: ewtdslugiAZeEjQCAAAD]
+5/16/2023, 1:55:23 PM - INFO - Req was made
+5/16/2023, 1:55:23 PM - DEBUG - Getting Boards
+5/16/2023, 1:55:24 PM - INFO - Req was made
+5/16/2023, 1:55:24 PM - DEBUG - Getting Boards
+5/16/2023, 1:59:46 PM - INFO - Server is running on port: 3030
+5/16/2023, 1:59:46 PM - INFO - New connected socket [id: V0oPqvldhiI2Q34_AAAB]
+5/16/2023, 1:59:46 PM - INFO - New connected socket [id: knGBBQFhomtn7-bZAAAD]
+5/16/2023, 2:04:24 PM - INFO - Server is running on port: 3030
+5/16/2023, 2:04:25 PM - INFO - New connected socket [id: rNe45O8bSFxkN3_0AAAB]
+5/16/2023, 2:04:27 PM - INFO - New connected socket [id: JCujgq8qaSi2qbNAAAAD]
